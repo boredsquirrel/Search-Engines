@@ -1,4 +1,4 @@
-# Search-Engines
+# Search-Engines ![Icon](https://github.com/trytomakeyouprivate/Search-Engines/blob/main/media/searx-icon.png)
 A list of useful Search Engine strings to be used in Firefox and other Browsers. Focus on Privacy, usability, anti-spam and decentralization
 
 
@@ -18,8 +18,8 @@ Looking for them you can discover lots of sites having an integrated Search engi
 - Chromium-based mobile browsers don't allow you to add a custom search engine. Ditch them!
 - Safari mobile does the same afaik
 
-## How to add the, to your Browser
+## How to add them to your Browser
 
-Firefox Desktop: You need [the addon "Add Custom Search Engine"](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/), which converts a string to an OpenSearch engine.
+**Firefox Desktop**: You need [the addon "Add Custom Search Engine"](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/), which converts a string to an OpenSearch engine.
 
-Firefox mobile, Brave Desktop: Settings -> Search -> Add Search engine
+**Firefox mobile**, Brave Desktop: Settings -> Search -> Add Search engine
