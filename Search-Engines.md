@@ -161,4 +161,4 @@ https://libgen.lc/index.php?req=%s`
 
 ### Z-Lib (requires Account)
 
-https://b-ok.cc/s/%s?`
+`https://b-ok.cc/s/%s?`
