@@ -86,7 +86,7 @@ Here are the to-be-redirected Search Engines:
 
 ### Flathub
 
-`https://flathub.org/apps/search/test`
+`https://flathub.org/apps/search/%s`
 
 [Other Flatpak sources](https://github.com/trytomakeyouprivate/Flatpak-remotes)
 
