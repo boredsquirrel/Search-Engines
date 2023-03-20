@@ -157,7 +157,7 @@ The Search engine works without Cloudflare JS, while the Start page doesnt want 
 
 ### Library Genesis
 
-https://libgen.lc/index.php?req=%s`
+`https://libgen.lc/index.php?req=%s`
 
 ### Z-Lib (requires Account)
 
