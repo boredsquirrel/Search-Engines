@@ -70,20 +70,6 @@ Here are the to-be-redirected Search Engines:
 
 # Popular Platforms
 
-### Ebay Germany
-
-#### normal, sorted by minimum price
-
-`https://www.ebay.de/sch/i.html?_fsrp=1&_from=R40&_nkw=%s&_sacat=0&_sop=15&rt=nc`
-
-#### soon ending Articles
-
-`https://www.ebay.de/sch/i.html?_nkw=%s&_sop=1&rt=nc`
-
-#### used Articles
-
-`https://www.ebay.de/sch/i.html?_fsrp=1&rt=nc&_from=R40&_nkw=%s&_sacat=0&_sop=15&LH_ItemCondition=4`
-
 ### Rotten Tomatos
 
 `https://www.rottentomatoes.com/search?search=%s`
@@ -113,7 +99,9 @@ Here are the to-be-redirected Search Engines:
 
 `https://www.linux-apps.com/find?search=%s`
 
+### Crates.io precompiles Rust packages
 
+`https://crates.io/search?q=%s`
 
 ### Keys OpenPGP
 
