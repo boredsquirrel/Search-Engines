@@ -90,7 +90,9 @@ Here are the to-be-redirected Search Engines:
 
 [Other Flatpak sources](https://github.com/trytomakeyouprivate/Flatpak-remotes)
 
-[Search for Flathub Flatpak Code](https://github.com/search?q=org%3Aflathub+%s)
+Search for Flathub Flatpak Code, Issues, Discussions:
+
+`https://github.com/search?q=org%3Aflathub+%s`
 
 ### Appimages
 
