@@ -103,6 +103,10 @@ Here are the to-be-redirected Search Engines:
 
 `https://crates.io/search?q=%s`
 
+### NixOS Packages
+
+`https://search.nixos.org/packages?type=packages&query=%s`
+
 ### Keys OpenPGP
 
 `https://keys.openpgp.org/search?q=%s`
