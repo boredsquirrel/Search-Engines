@@ -113,6 +113,10 @@ Search for Flathub Flatpak Code, Issues, Discussions:
 
 `https://keys.openpgp.org/search?q=%s`
 
+### KDE Gitlab
+
+`https://invent.kde.org/search?search=%s&nav_source=navbar`
+
 ### Libreoffice Help
 
 `https://help.libreoffice.org/7.2/de/search?P=%s`
