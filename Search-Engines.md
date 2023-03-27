@@ -105,6 +105,10 @@ Search for Flathub Flatpak Code, Issues, Discussions:
 
 `https://crates.io/search?q=%s`
 
+### Arch Wiki
+
+`https://wiki.archlinux.org/index.php?search=%s`
+
 ### NixOS Packages
 
 `https://search.nixos.org/packages?type=packages&query=%s`
