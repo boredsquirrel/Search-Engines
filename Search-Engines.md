@@ -54,7 +54,9 @@ Prefer using Libredirect instead of those, as you will pick random instances and
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/libredirect/)
 - [Chromium](https://github.com/libredirect/libredirect/releases/latest)
 
-Here are the to-be-redirected Search Engines:
+Here are some to-be-redirected Search Engines:
+
+(There are many more privacy frontends)
 
 ### Youtube
 
