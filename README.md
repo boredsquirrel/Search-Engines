@@ -23,6 +23,8 @@ Looking for them you can discover lots of sites having an integrated Search engi
 
 ## How to add them to your Browser
 
+**Falkon**: Settings -> Others -> Manage Search engines
+
 **Firefox Desktop**: You need [the addon "Add Custom Search Engine"](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/), which converts a string to an OpenSearch engine.
 
 **Firefox mobile**, Brave Desktop: Settings -> Search -> Add Search engine
