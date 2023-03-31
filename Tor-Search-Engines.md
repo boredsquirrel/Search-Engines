@@ -22,6 +22,11 @@ https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/?q=%s&iax
 
 search on [searx.space](searx.space)
 
+### GimmeaSearX
+An onion-site that redirects you to a random SearX instance every time:
+
+`http://7tcuoi57curagdk7nsvmzedcxgwlrq2d6jach4ksa3vj72uxrzadmqqd.onion/search?q=%s`
+
 #### fastest Searx (some time)
 
 http://4n53nafyi77iplnbrpmxnp3x4exbswwxigujaxy3b37fvr7bvlopxeyd.onion/search?q=%s
