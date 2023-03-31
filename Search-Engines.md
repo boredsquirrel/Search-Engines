@@ -2,29 +2,53 @@
 
 # Friendly Search Engines
 
-### Random SearX
+## Random SearX
 This Engine redirects every search to a different SearX server, decentralizing your usage.
 It may be a honeypot itself, but it allows you to use most available Engines evenly and makes you untrackable for Google & Co.
 
 `https://searx.neocities.org/#q=%s&category_general=on`
 
-#### Random SearX Images:
+### Random SearX Images:
 
 `https://searx.neocities.org/#q=%s&category_images=on`
 
-#### Random SearX Videos:
+### Random SearX Videos:
 
 `https://searx.neocities.org/#q=%s&category_videos=on`
 
-#### Random SearX Files:
+### Random SearX Files:
 
 `https://searx.neocities.org/#q=%s&category_files=on`
 
-#### Random SearX Maps (usefulness questionable):
+### Random SearX Maps (usefulness questionable):
 
 `https://searx.neocities.org/#q=%s&category_maps=on`
 
-*this can go on...*
+*this can go on... Choose tags that all SearX instances support. Also the servers they use will be different so result may be not what you want*
+
+## Configure your favourite SearX instance
+Pick any SearX or SearXNG instance you want ([searx.space](https://searx.space/))
+
+Set your settings and either save the Cookies for this site (allow cookies for the Site in the Firefox Privacy settings) or copy the custom URL
+
+### Startpage 
+this one is more complicated, as you can store the settings in the URL but this only works using the less secure "GET" method. ([Wikipedia](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods))
+
+the default URL:
+
+`https://www.startpage.com/sp/search?query=%s`
+
+Under Settings you can add a custom region, Language, disable ads or censored mode:
+
+1. Open settings
+2. Change what you want
+3. Choose "GET" instead of "POST"
+4. Copy the URL on the right panel
+5. Add `&query=%s` to the beginning of the URL
+
+example:
+
+`https://www.startpage.com/sp/search?query=%s&abp=-1&t=dark&lui=english&cat=web`
 
 ***NOTE: Every instance chooses their crawled engines differently, so you may get unpleasing results***
 
