@@ -167,6 +167,11 @@ Search for Flathub Flatpak Code, Issues, Discussions:
 
 `https://aur.archlinux.org/packages?O=0&K=%s`
 
+### ProtonDB
+Playable Games using Valves Wine Version
+
+`https://www.protondb.com/search?q=%s`
+
 # Useful Tools
 
 ### Icons8
