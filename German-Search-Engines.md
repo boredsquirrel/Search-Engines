@@ -29,3 +29,13 @@ haben eine OpenSearch Engine
 ### Wiktionary DE Mobile
 
 `https://de.m.wiktionary.org/w/index.php?fulltext=1&profile=default&search=%s`
+
+# Food
+
+### Chefkoch
+
+`https://www.chefkoch.de/rs/s0/%s/Vegan-Rezepte.html`
+
+### Restegourmet
+
+´https://restegourmet.de/rezeptsuche/_/%s/direkt-loslegen,vegan`
