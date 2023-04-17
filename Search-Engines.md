@@ -24,7 +24,9 @@ It may be a honeypot itself, but it allows you to use most available Engines eve
 
 `https://searx.neocities.org/#q=%s&category_maps=on`
 
-*this can go on... Choose tags that all SearX instances support. Also the servers they use will be different so result may be not what you want*
+*this can go on... Choose tags that all SearX instances support. Some are very specific*
+
+***NOTE: Every instance chooses their crawled engines differently, so you may get unpleasing results. You may prefer having one instance with saved settings, enabled and disabled search engines.***
 
 ## Configure your favourite SearX instance
 Pick any SearX or SearXNG instance you want ([searx.space](https://searx.space/))
@@ -50,7 +52,16 @@ example:
 
 `https://www.startpage.com/sp/search?query=%s&abp=-1&t=dark&lui=english&cat=web`
 
-***NOTE: Every instance chooses their crawled engines differently, so you may get unpleasing results***
+### Mullvad Leta
+Only for Mullvad Customers, restricted to 50 searches a day. They have "search in Cache" mode, which is on by default, but this cache is deleted after 30 days so its not very useful for most results. Google API queries cost money so searching in cache is a good possibility, but you need to disable the tick every time, which is annoying.
+
+No cache:
+
+`https://leta.mullvad.net/?q=%s&oc=0`
+
+Normal:
+
+`https://leta.mullvad.net/?q=%s&oc=1`
 
 ### OpenStreetMaps
 
