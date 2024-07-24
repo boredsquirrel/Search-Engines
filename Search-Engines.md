@@ -125,7 +125,7 @@ Here are some to-be-redirected Search Engines:
 
 `https://flathub.org/apps/search/%s`
 
-[Other Flatpak sources](https://github.com/trytomakeyouprivate/Flatpak-remotes)
+[Other Flatpak sources](https://github.com/boredsquirrel/Flatpak-remotes)
 
 Search for Flathub Flatpak Code, Issues, Discussions:
 

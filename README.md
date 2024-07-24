@@ -1,9 +1,9 @@
-# Search-Engines ![Icon](https://github.com/trytomakeyouprivate/Search-Engines/blob/main/media/searx-icon.png)
+# Search-Engines ![Icon](https://github.com/boredsquirrel/Search-Engines/blob/main/media/searx-icon.png)
 A list of useful Search Engine strings to be used in Firefox and other Browsers. Focus on Privacy, usability, anti-spam and decentralization
 
-- [regular Clearnet Engines](https://github.com/trytomakeyouprivate/Search-Engines/blob/main/Search-Engines.md)
-- [TOR Engines](https://github.com/trytomakeyouprivate/Search-Engines/blob/main/Tor-Search-Engines.md)
-- [German Search Engines](https://github.com/trytomakeyouprivate/Search-Engines/blob/main/German-Search-Engines.md)
+- [regular Clearnet Engines](https://github.com/boredsquirrel/Search-Engines/blob/main/Search-Engines.md)
+- [TOR Engines](https://github.com/boredsquirrel/Search-Engines/blob/main/Tor-Search-Engines.md)
+- [German Search Engines](https://github.com/boredsquirrel/Search-Engines/blob/main/German-Search-Engines.md)
 
 ## Why all these Search Engines?
 
